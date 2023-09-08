@@ -75,6 +75,23 @@ section {
   }
 }
 
+.subsection-header{
+  text-align: center;
+  padding-bottom: 40px;
+  margin-top: 80px;
+}
+
+.subsection-header h2 {
+  font-size: 13px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  margin: 0;
+  color: #4154f1;
+  text-transform: uppercase;
+}
+
+
+
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
@@ -720,7 +737,7 @@ section {
 }
 
 .features .feture-tabs {
-  margin-top: 120px;
+  margin-top: 20px;
 }
 
 .features .feture-tabs h3 {
